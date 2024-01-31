@@ -1,2 +1,8 @@
-# mega-sales-analysis
-Project showing basic analysis of data based on mega sales. For this project, we used Python in Jupyter Notebook, Excel for looking at our data in CSV format and 4 libraries (Numpy, Pandas, Matplotlib and Seaborn).
+# Mega-Sales-Analysis
+
+Project showing basic analysis of mega sales data.
+
+Tools used for this project are:
+* Python in Jupyter Notebook
+* Excel for looking at our data in CSV format
+* 4 libraries (Numpy, Pandas, Matplotlib and Seaborn) for analysis of our data 
